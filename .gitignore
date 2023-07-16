@@ -1,0 +1,3 @@
+# ignore all PNG files used touch .gitignore
+*png
+*metadata
